@@ -1,4 +1,4 @@
-# Health Outcomes and Place of Residence
+# Health Outcomes and Places of Residence
 
 This project aim to seek out the relationships of selected health outcomes, risky behaviours and preventive measures. 
 
