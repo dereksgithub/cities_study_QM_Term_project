@@ -10,4 +10,9 @@ The first phase is to solely study the data with quantative measurs, due to the 
 
 The second is post module phase, this will introduce analysis with spatial factors in mind, i.e. performing spatial clustering, merging other datasets into the process, (including demographical data, key industrial/retail data) etc.
 
+This repo is developed for research and academic purposes only.
+
+The code is borrowed and based mainly from the CASA0007 Practicals.
+
+For any cpoyright concerns, please contact me via github.
 
