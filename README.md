@@ -10,6 +10,9 @@ The first phase is to solely study the data with quantative measurs, due to the 
 
 The second is post module phase, this will introduce analysis with spatial factors in mind, i.e. performing spatial clustering, merging other datasets into the process, (including demographical data, key industrial/retail data) etc.
 
+The current obejctive of this project is to identify more data sources to merge to the stury and eventually, build a viable model to model the change in the urban built environment, or population health conditons and answer questions such as: "How does building a new park for exercising, jogging, and meanwhile promoting policies to reduce the smoming and sugar consumption among the population, impact the level of heart disease prevalence in the population. "
+
+
 This repo is developed for research and academic purposes only.
 
 The code is borrowed and based mainly from the CASA0007 Practicals.
