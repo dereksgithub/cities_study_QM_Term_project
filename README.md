@@ -12,6 +12,12 @@ The second is post module phase, this will introduce analysis with spatial facto
 
 The current obejctive of this project is to identify more data sources to merge to the stury and eventually, build a viable model to model the change in the urban built environment, or population health conditons and answer questions such as: "How does building a new park for exercising, jogging, and meanwhile promoting policies to reduce the smoming and sugar consumption among the population, impact the level of heart disease prevalence in the population. "
 
+Future works:
+
+Considering Chronological data,
+Adding more spatial context.
+TBI Relate brain injuries data to the scope.
+Search for sugar consumption data, smoking ad spending data with geographical information combined.
 
 This repo is developed for research and academic purposes only.
 
