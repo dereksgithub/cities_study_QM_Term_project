@@ -6,7 +6,8 @@ __Further development of this project:__
 1. This will become my side hobby project from now on;
 2. The end goal is to build a public health predictor for cities, based on the open-source data collected, that has the capability of predicting health outcomes of urban/rural populations, providing policy suggestions for interventions;
 3. LLM may be integrated in the very future, for now the focus is to gather causal relations and data;
-4. Actual engineering and deployment is not a focus for now.
+4. Actual engineering and deployment is not a focus for now;
+5. Using high-definition remote sensing data to monitor the air quality/urban green space/outdoor activities index/outdoor exercising rate etc. combine the data from this pipeline back to the general forecasting model.
 
 The author built regression models to study the and clustering models to classify US counties
 
